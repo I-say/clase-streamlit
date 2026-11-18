@@ -1,6 +1,6 @@
 # Mi primera app con Streamlit · Una semana en la heladería
 
-**Pregunta para abrir la clase:** si mañana hace 28 °C, ¿qué día de nuestra tabla mirarías para decidir cuántos helados preparar?
+si mañana hace 28 °C, ¿qué día de nuestra tabla mirarías para decidir cuántos helados preparar?
 
 En 50 minutos vas a convertir una tabla de siete filas en una página que responde cuando eliges un sabor. Solo necesitas una cuenta de GitHub, un navegador y saber copiar, pegar y guardar. Streamlit convierte instrucciones de Python en elementos de una página. Hoy vas a escribir esas instrucciones de una en una y comprobar su efecto.
 
